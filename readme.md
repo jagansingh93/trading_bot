@@ -1,2 +1,2 @@
 # The Trading Bot
-By: Jagandeep Singh, Rohit Luthra, Aditya sheth
+By: Jagandeep Singh, Rohit Luthra, Aditya Sheth
