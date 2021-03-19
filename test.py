@@ -29,7 +29,7 @@ def get_orders():
 
 response = create_order("AAPL", 10, "buy", "market", "gtc")
 #response = create_order("MSFT", 20, "buy", "market", "gtc")
-#print(response)
+print(response)
 
 print(get_orders())
 

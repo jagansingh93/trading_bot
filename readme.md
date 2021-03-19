@@ -1,2 +1,2 @@
-# The Trading Bot
-By: Jagandeep Singh, Rohit Luthra, Aditya Sheth
+# Vehle Capital
+### By: Jagandeep Singh, Rohit Luthra, Aditya Sheth
